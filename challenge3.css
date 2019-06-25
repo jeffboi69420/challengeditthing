@@ -1,0 +1,30 @@
+body {
+  background: orange;
+}
+li {
+  display: inline-block;
+  padding: 20px;
+  backround: red;
+}
+nav {
+  background-color: red;
+  margin: 0
+}
+
+li a {
+  display: inline-block;
+  text-decoration: none;
+}
+ nav ul {
+   list-style: none;
+ }
+
+ nav a:hover {
+   background-color: green;
+   color: black;
+ }
+
+div {
+  background-color: blue;
+  padding: 40px;
+}
